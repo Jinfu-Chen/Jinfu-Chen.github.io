@@ -1,1 +1,1 @@
-A Student
+A student
